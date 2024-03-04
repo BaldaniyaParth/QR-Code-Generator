@@ -2,7 +2,8 @@
 This is a simple web application built using HTML, CSS, and JavaScript that allows users to generate QR codes for websites and scan them to redirect to the respective websites.
 
 ## Live Link:
-Click here to access the live application (Replace "#" with the actual URL once deployed)
+Click here to access the live application :
+### https://qr-code-generator-parth.netlify.app/
 
 ## Features:
 - QR Code Generation: Users can enter a website URL and generate a corresponding QR code.
